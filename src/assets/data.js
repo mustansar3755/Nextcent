@@ -61,3 +61,32 @@ export const CommunityData=[
         desc:"Our membership management software provides full automation of membership renewals and payments"
     },
 ]
+
+//* Stats
+
+export const stats = [
+    {
+        id:1,
+        icon:assets.Two_Members,
+        numbers:"2,245,341",
+        text:"Members"
+    },
+    {
+        id:2,
+        icon:assets.Hands,
+        numbers:"46,328",
+        text:"Clubs"
+    },
+    {
+        id:3,
+        icon:assets.Click,
+        numbers:"828,867",
+        text:"Event Booking"
+    },
+    {
+        id:4,
+        icon:assets.Payment,
+        numbers:"1,926,436",
+        text:"Payments"
+    },
+]

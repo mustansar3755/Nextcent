@@ -1,7 +1,7 @@
 import Logo from "../assets/images/Logo_Icon.png";
 import Hero_Img from "../assets/images/Hero_Img.png";
 import MobileLogin from "../assets/images/Mobile_Login.png";
-import MobileLock from "../assets/images/Mobile_Lock.png";
+import Rafiki from '../assets/images/rafiki.png'
 import Two_Members from "../assets/images/2_Members.png";
 import Three_Members from "../assets/images/Member.png";
 import Building from "../assets/images/Building.png";
@@ -20,10 +20,13 @@ import Client_5 from "../assets/images/Company_5.png";
 import Client_6 from "../assets/images/Company_6.png";
 import Client_7 from "../assets/images/Company_7.png";
 import Rectangle from '../assets/images/Rectangle 157.png'
+
+
+
+
 export default {
   Logo,
   Hero_Img,
-  MobileLock,
   MobileLogin,
   Two_Members,
   Three_Members,
@@ -42,5 +45,6 @@ export default {
   Client_5,
   Client_6,
   Client_7,
-  Rectangle
+  Rectangle,
+  Rafiki
 };
