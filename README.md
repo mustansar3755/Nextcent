@@ -1,16 +1,30 @@
-# React + Vite
+# 🌐 Nextcent – Modern Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, modern, and fully responsive **portfolio website** built using **React.js** and **Tailwind CSS**.  
+This project showcases my personal work, skills, and creative projects in a visually appealing and professional way.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
+- **React.js** – Frontend library for building UI  
+- **Tailwind CSS** – Utility-first CSS framework  
+- **JavaScript (ES6+)** – Core language  
+- **Vite / Create React App** – Project setup (depending on your setup)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
+- ⚡ Modern and minimal UI design  
+- 📱 Fully responsive on all devices  
+- 🧩 Reusable and modular components  
+- 🎨 Smooth transitions and animations  
+- 🧠 Clean and organized code structure  
+- 💼 Projects, About, and Contact sections  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Installation and Setup Instructions
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/nextcent.git

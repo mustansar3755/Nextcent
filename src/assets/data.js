@@ -27,7 +27,7 @@ export const links=[
         path:"/"
     },
 ]
-
+//* Brands Logos
 export const BrandLogos =[
     assets.Client_1,
     assets.Client_2,
@@ -37,4 +37,27 @@ export const BrandLogos =[
     assets.Client_6,
     assets.Client_7,
 
+]
+
+// * Community Data
+
+export const CommunityData=[
+    {
+        id:1,
+        icon:assets.Three_Members,
+        heading:"Membership Organisations",
+        desc:"Our membership management software provides full automation of membership renewals and payments"
+    },
+    {
+        id:2,
+        icon:assets.Building,
+        heading:"National Associations",
+        desc:"Our membership management software provides full automation of membership renewals and payments"
+    },
+    {
+        id:3,
+        icon:assets.Hands,
+        heading:"Clubs And Groups",
+        desc:"Our membership management software provides full automation of membership renewals and payments"
+    },
 ]

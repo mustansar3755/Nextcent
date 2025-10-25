@@ -19,7 +19,7 @@ import Client_4 from "../assets/images/Company_4.png";
 import Client_5 from "../assets/images/Company_5.png";
 import Client_6 from "../assets/images/Company_6.png";
 import Client_7 from "../assets/images/Company_7.png";
-
+import Rectangle from '../assets/images/Rectangle 157.png'
 export default {
   Logo,
   Hero_Img,
@@ -42,4 +42,5 @@ export default {
   Client_5,
   Client_6,
   Client_7,
+  Rectangle
 };
