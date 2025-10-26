@@ -7,6 +7,7 @@ import {
   SiteFooter,
   Customer,
   Blogs,
+  Footer,
 } from "./components";
 
 const App = () => {
@@ -23,6 +24,7 @@ const App = () => {
       <SiteFooter />
       <Customer />
       <Blogs />
+      <Footer/>
     </div>
   );
 };
