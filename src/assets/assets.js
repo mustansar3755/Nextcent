@@ -8,7 +8,7 @@ import Building from "../assets/images/Building.png";
 import Click from "../assets/images/Click.png";
 import Hands from "../assets/images/Hands.png";
 import Payment from "../assets/images/Payment.png";
-import Image_9 from "../assets/images/image 9.png";
+import Image_9 from "../assets/images/Img_9.png";
 import Image_18 from "../assets/images/image 18.png";
 import Image_19 from "../assets/images/image 19.png";
 import Image_20 from "../assets/images/image 20.png";
